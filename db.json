@@ -1,0 +1,50 @@
+{
+    "coffee_shops": [
+      {
+        "coffee_shop_name": "Brew Bliss Cafe",
+        "location": "123 Coffee Street, Seattle, USA",
+        "established_year": 2015,
+        "menu": [
+          {
+            "category": "Coffee",
+            "items": [
+              {
+                "name": "Espresso",
+                "price": 2.50,
+                "size": ["Small", "Medium", "Large"],
+                "description": "A shot of rich and bold espresso."
+              },
+              {
+                "name": "Cappuccino",
+                "price": 3.50,
+                "size": ["Small", "Medium", "Large"],
+                "description": "Espresso with steamed milk and a thick layer of foam."
+              }
+            ]
+          },
+          {
+            "category": "Tea",
+            "items": [
+              {
+                "name": "Green Tea",
+                "price": 2.00,
+                "size": ["Small", "Medium", "Large"],
+                "description": "A soothing cup of antioxidant-rich green tea."
+              },
+              {
+                "name": "Chai Latte",
+                "price": 3.00,
+                "size": ["Small", "Medium", "Large"],
+                "description": "A spiced tea with steamed milk and a hint of sweetness."
+              }
+            ]
+          }
+        ],
+        "contact": {
+          "email": "contact@brewbliss.com",
+          "phone": "+1-555-456-7890"
+        }
+      }
+    ]
+  }
+  
